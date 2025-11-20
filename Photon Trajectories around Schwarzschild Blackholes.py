@@ -1,3 +1,7 @@
+#This work was done as part of General Relativity course presentation.
+#The credit for this code goes to my group member Shivam Kumar (will mention his id here) and a little to me for suggestions. 
+#We were able to run this properly on VS code so it is recommended.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import solve_ivp
